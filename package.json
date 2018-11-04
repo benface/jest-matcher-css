@@ -1,6 +1,6 @@
 {
   "name": "jest-matcher-css",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Jest matcher to assert that a string of CSS matches another one",
   "author": "Benoît Rouleau <benoit.rouleau@icloud.com>",
   "license": "ISC",
