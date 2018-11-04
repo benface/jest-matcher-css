@@ -17,10 +17,10 @@ In your Jest config:
 
 In `setup.js`:
 ```js
-const jestCssMatcher = require('jest-css-matcher');
+const cssMatcher = require('jest-matcher-css');
 
 expect.extend({
-  toMatchCss: jestCssMatcher,
+  toMatchCss: cssMatcher,
 });
 ```
 
