@@ -19,5 +19,6 @@ and this project mostly adheres to [Semantic Versioning](https://semver.org/spec
 
 Initial release
 
-[Unreleased]: https://github.com/benface/jest-matcher-css/compare/v1.0.1...HEAD
+[Unreleased]: https://github.com/benface/jest-matcher-css/compare/v1.0.2...HEAD
+[1.0.2]: https://github.com/benface/jest-matcher-css/compare/v1.0.1...v1.0.2
 [1.0.1]: https://github.com/benface/jest-matcher-css/compare/v1.0.0...v1.0.1
