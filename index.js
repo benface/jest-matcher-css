@@ -1,5 +1,5 @@
 module.exports = (received, argument) => {
-  const stripped = str => str.replace(/\s/g, '');
+  const stripped = str => str.replace(/[;\s]/g, '');
 
   if (stripped(received) === stripped(argument)) {
     return {
